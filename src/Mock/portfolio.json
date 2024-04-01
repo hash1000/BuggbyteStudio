@@ -1,0 +1,149 @@
+[
+  {
+    "categories": ["metaverse", "unity"],
+    "subHeading": "Metaverse",
+    "heading": "Meta warriors Metaverse",
+    "description": "ONLINE MULTIPLAYER KILL-TO-EARN ZOMBIE SHOOTING Every living creature in this city is a bloodthirsty zombie but the city has a lot of value for people as food supplies and weapon artillery and factories are in this city",
+    "link": "meta-warriors",
+    "img": "/assets/images/meta-warriors.png",
+    "size": {
+      "width": 500,
+      "height": 620
+    }
+  },
+  {
+    "categories": ["ar-vr", "unity"],
+    "subHeading": "Unity",
+    "heading": "AR BAZAAR",
+    "description": "Immerse yourself in a world where products come to life before your eyes",
+    "link": "ar-bazaar",
+    "img": "/assets/images/ar-bazaar.png",
+    "size": {
+      "width": 500,
+      "height": 450
+    }
+  },
+  {
+    "categories": ["blockchain", "unity"],
+    "subHeading": "Unity",
+    "heading": "pixels debates",
+    "description": "Pixel Debates is an online multiplayer game in which players engage in debate matches against each other. The game features a variety of debate topics and allows players to defend their positions using evidence and logical argumentation.",
+    "link": "pixels-debates",
+    "img": "/assets/images/pixel-debates.png",
+    "size": {
+      "width": 500,
+      "height": 480
+    }
+  },
+
+  {
+    "categories": ["unity"],
+    "subHeading": "Metaverse",
+    "heading": "Tiny Titans",
+    "description": "Tiny Titans – AFK Auto Battles is a Role Playing game Clash steel with players from all around the world in this epic PvP strategy autobattler for Android! Collect and deploy a team of powerful titans, each with their own skills and abilities.",
+    "link": "tiny-titans",
+    "img": "/assets/images/tiny-titans.png",
+    "size": {
+      "width": 500,
+      "height": 620
+    }
+  },
+  {
+    "categories": ["unity"],
+    "subHeading": "Unity",
+    "heading": "card game",
+    "description": "Hearts is a classic competitive card game, which is one of the greatest card games designed for four players.",
+    "link": "hearts-classic-card-game",
+    "img": "/assets/images/hearts.png",
+    "size": {
+      "width": 500,
+      "height": 500
+    }
+  },
+
+  {
+    "categories": ["ar-vr", "unity"],
+    "subHeading": "AR",
+    "heading": "AR REAL ESTATE",
+    "description": "Galaxy Shooter – Alien Hunter : Space Shooting Games - Galaxy Shooter Sky Force –alien game - is an engaging arcade galaxy space shooting game draws inspiration from classics like Galaxia.",
+    "link": "ar-real-estate",
+    "img": "/assets/images/ar-estate.png",
+    "size": {
+      "width": 500,
+      "height": 550
+    }
+  },
+  {
+    "categories": ["blockchain", "unity"],
+    "subHeading": "Unity",
+    "heading": "dark taverns",
+    "description": "Dark Taverns is an open-world MMORPG set in a unique fantasy world filled with hidden secrets and magic. Explore the deep forests and discover mythical creatures and items.",
+    "link": "dark-taverns",
+    "img": "/assets/images/dark-travers.png",
+    "size": {
+      "width": 500,
+      "height": 600
+    }
+  },
+
+  {
+    "categories": ["digital-twins"],
+    "subHeading": "Unity",
+    "heading": "JASMINE GRAND MALL",
+    "description": "The largest shopping mall in Bahria Town Lahore.",
+    "link": "jasmine-mall",
+    "img": "/assets/images/jasmine-mall.png",
+    "size": {
+      "width": 500,
+      "height": 500
+    }
+  },
+  {
+    "categories": ["blockchain", "unity"],
+    "subHeading": "Unity",
+    "heading": "Manager football",
+    "description": "You're the boss of an elite soccer team. Build a dream squad of real-life stars or coach new talent and lead them to victory in this management game.",
+    "link": "manager-football",
+    "img": "/assets/images/manager-football.png",
+    "size": {
+      "width": 500,
+      "height": 450
+    }
+  },
+  {
+    "categories": ["digital-twins"],
+    "subHeading": "Virtual Experiences",
+    "heading": "Q HIGH STREET",
+    "description": "Join Thousands Of Players Who Are Fighting Tiny But Winning BIG.",
+    "link": "q-high-street",
+    "img": "/assets/images/high-street.png",
+    "size": {
+      "width": 500,
+      "height": 600
+    }
+  },
+  {
+    "categories": ["metaverse", "unity"],
+    "subHeading": "Virtual Experiences",
+    "heading": "RIFTERS.IO",
+    "description": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+    "link": "rifters",
+    "img": "/assets/images/rifters.png",
+    "size": {
+      "width": 500,
+      "height": 450
+    }
+  },
+  {
+    "categories": ["digital-twins"],
+    "subHeading": "Virtual Experiences",
+    "heading": "Q-CENTRAL MALL & RESIDENCES",
+    "description": "Bahria Orchard and South Lahore's very first skyscraper.",
+    "link": "q-central-mall",
+    "img": "/assets/images/q-central.png",
+    "size": {
+      "width": 500,
+      "height": 450
+    }
+  }
+]

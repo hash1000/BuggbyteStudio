@@ -1,0 +1,18 @@
+[
+    {
+      "imageUrl": "/assets/images/other-project-img1.png",
+      "title": "Robot"
+    },
+    {
+      "imageUrl": "/assets/images/other-project-img2.png",
+      "title": "Tank"
+    },
+    {
+      "imageUrl": "/assets/images/other-project-img3.png",
+      "title": "Jin"
+    },
+    {
+      "imageUrl": "/assets/images/game-design.png",
+      "title": "Game Development"
+    }
+  ]

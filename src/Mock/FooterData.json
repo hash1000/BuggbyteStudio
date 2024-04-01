@@ -1,0 +1,53 @@
+[
+  {
+    "section": "Quick Links",
+    "links": [
+      {"text": "Home", "url": "/"},
+      {"text": "About", "url": "/about-us"},
+      {"text": "Our Services", "url": "/services"},
+      {"text": "Portfolio", "url": "/portfolio"},
+      {"text": "Contact Us", "url": "/contact-us"}
+    ]
+  },
+  {
+    "section": "Our Services",
+    "links": [
+      {"text": "Game Development", "url": "/game-development"},
+      {"text": "Game Design", "url": "/game-design"},
+      {"text": "Blockchain", "url": "/blockchain-games"},
+      {"text": "NFT And Metaverse", "url": "/nft-metaverse"},
+      {"text": "virtual Experience", "url": "/virtual-experience"}
+    ],
+    "arVr": [
+      {"text": "AR", "url": "/ar-development"},
+      {"text": "VR", "url": "/vr-development"}
+    ]
+  },
+  {
+    "section": "Contact Us",
+    "links": [
+      {"text": "+971542990227", "url": "tel:+971542990227"},
+      {
+        "text": "hello@Buggbytestudios.com",
+        "url": "mailto:hello@Buggbytestudios.com"
+      }
+    ],
+    "socialMedia": [
+      {
+        "platform": "Facebook",
+        "icon": "/assets/images/facebook.svg",
+        "url": "https://www.facebook.com/profile.php?id=61555682863123"
+      },
+      {
+        "platform": "Instagram",
+        "icon": "/assets/images/instagram.svg",
+        "url": "https://www.instagram.com/buggbyte_studios/"
+      },
+      {
+        "platform": "Linkdine",
+        "icon": "/assets/images/linkdine.svg",
+        "url": "https://www.linkedin.com/company/buggbyte-studios/about/"
+      }
+    ]
+  }
+]

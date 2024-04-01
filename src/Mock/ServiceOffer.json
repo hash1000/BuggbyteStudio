@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Unity and Unreal",
+    "desc": "Join the fun at Buggbyte! Our games, made with Unity and Unreal Engine, not only look cool but also have a relaxed vibe. Picture yourself going on exciting adventures or simply chilling in a virtual world. Come be part of the enjoyment where each part of the game tells a laid-back and cool story, crafted just for you!",
+    "imageUrl": "/assets/images/unity-tab-1.png",
+    "btnLink":"/game-development"
+  },
+  {
+    "title": "Blockchain Games",
+    "desc": "Discover Buggbyte Blockchain Games, where your game loot is special and just for you, making every playtime super exclusive. Jump into a safe and exciting gaming world, where the cool magic of blockchain adds an extra layer of fun. Let Buggbyte make your gaming adventure unique with treasures that are all yours.",
+    "imageUrl": "/assets/images/blockchain-tab-2.png",
+    "btnLink":"/blockchain-games"
+  },
+  {
+    "title": "NFT AND Metaverse",
+    "desc": "Discover the magic of Buggbyte Metaverse with NFTs – your virtual treasures are only yours, making your gaming moments super special. Imagine a world where your in-game items are uniquely exclusive, thanks to the cool NFT magic. Come and be part of our Metaverse, where every game is a personalized adventure just for you!",
+    "imageUrl": "/assets/images/nft-meta-tab-3.png",
+    "btnLink":"/nft-metaverse"
+  },
+  {
+    "title": "AR Development",
+    "desc": "Explore the fun world of AR development at Buggbyte! Our team makes cool stuff that mixes the digital and real worlds, turning ideas into awesome experiences. Join us in making interactive things that bring a touch of magic to everyday life. Whether it's a fashion statement or an immersive shopping experience!",
+    "imageUrl": "/assets/images/ar-development-tab-4.png",
+    "btnLink":"/ar-development"
+  },
+  {
+    "title": "VR Development",
+    "desc": "Our team crafts fun and realistic virtual experiences, bringing your imagination to life. Dive into a world of excitement and wonder with Buggbyte's awesome VR creations. Come join us for a super fun adventure in the awesome world of virtual reality!",
+    "imageUrl": "/assets/images/vr-development-tab-5.png",
+    "btnLink":"/vr-development"
+  },
+  {
+    "title": "Game Design & Animation",
+    "desc": "Our creative team brings characters and worlds to life, crafting engaging and visually stunning experiences. Immerse yourself in the excitement of our games, where innovative design and captivating animations come together. Join us on a journey where every pixel tells a story.",
+    "imageUrl": "/assets/images/game-design-tab-6.png",
+    "btnLink":"/game-design"
+  },
+  {
+    "title": "Virtual Experience",
+    "desc": "Dive into a digital world where everything feels real and exciting. Join us in exploring lots of fun stuff online, where every click brings you to new and awesome adventures. Let's make your online time magical with Buggbyte!",
+    "imageUrl": "/assets/images/vr-experience-tab-7.png",
+    "btnLink":"/virtual-experience"
+  }
+]

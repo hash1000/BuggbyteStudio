@@ -1,0 +1,37 @@
+[
+    {
+        "step": 1,
+        "phase": "Support",
+        "description": "The team isn’t done yet! We are here with you throughout the lifecycle to scale up your project in the future."
+    },
+    {
+        "step": 2,
+        "phase": "Release",
+        "description": "Our project managers create channels of viable release channels, and IP delegation for you."
+    },
+    {
+        "step": 3,
+        "phase": "Post-production",
+        "description": "The refining phase, where our team of testers and producers smooth out the edges and fine-tune the product."
+    },
+    {
+        "step": 4,
+        "phase": "Conceptualization",
+        "description": "Based on the findings, we create a visual outlook to show you an image of what you have in mind."
+    },
+    {
+        "step": 5,
+        "phase": "Pre-production",
+        "description": "Every element of the project is streamlined into milestones and processes for optimal productivity."
+    },
+    {
+        "step": 6,
+        "phase": "Production",
+        "description": "Here’s where we put the foot on the pedal. Our team of developers and designers create the final functional product."
+    },
+    {
+        "step": 7,
+        "phase": "Ideation",
+        "description": "Our team of game & product designers work closely with you on the nitty-gritty details about your project."
+    }
+]

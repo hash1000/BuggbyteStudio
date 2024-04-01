@@ -1,0 +1,226 @@
+{
+    "serviceDetail": [
+      {
+        "image": "/assets/images/unity-pic2.png",
+        "title": "Multiplayer Games",
+        "description": "Explore multiplayer gaming: Team up with friends or join others for  online fun in our games. We're all about creating good times together. Feel the thrill of multiplayer gaming – it's social, interactive, and loads of joy. Be part of the gaming party and let's play together! Dive into the excitement and connect with others for a fantastic gaming experience.",
+        "buttonText": "Multiplayer",
+        "buttonLink": "contact-us",
+        "order": 0
+      },
+      {
+        "image": "/assets/images/unity-pic3.png",
+        "title": "Hypercausal games",
+        "description": "Discover the world of hypercasual games: Quick, easy, and loads of fun, these games are perfect for instant entertainment. With simple controls and straightforward gameplay, they're made for everyone. Jump into a realm of easy enjoyment, whether you're a casual gamer or just want a quick break. It's gaming made simple, accessible, and seriously enjoyable. Come join the fun in hypercasual gaming!",
+        "buttonText": "Hypercausal",
+        "buttonLink": "contact-us",
+        "order": 1
+      },
+      {
+        "image": "/assets/images/unity-pic4.png",
+        "title": "Simulation Games",
+        "description": "Explore Buggbyte Simulation Games for a taste of realistic fun! From building cities to flying high, our games offer exciting adventures for everyone. Get ready for lifelike experiences that make you feel part of the action. Buggbyte brings you simple, enjoyable simulation gaming – the perfect way to dive into virtual worlds and have a blast",
+        "buttonText": "Simulation",
+        "buttonLink": "contact-us",
+        "order": 0
+      }, {
+        "image": "/assets/images/unity-pic1.png",
+        "title": "Crossplatform Games",
+        "description": "Experience the joy of cross-platform gaming and play on your phone or computer, wherever you like! Our games are fun and easy to play, making it simple to enjoy them on any device. Join in the excitement and let's have a great time together. Let the gaming adventure begin!",
+        "buttonText": "contact us",
+        "buttonLink": "contact-us",
+        "order": 1
+      }
+
+    ],
+    "nftMetaverse": [
+        {
+            "image": "/assets/images/nft1.png",
+            "title": "Metaverse & Web 3.0",
+            "description": "Explore Metaverse and Web 3.0 games: Enter a cool virtual world where gaming gets a modern twist. Try out games using fancy tech for a fresh, fun experience. Get a taste of the future with Metaverse and Web 3.0, connecting real and virtual worlds easily. Join a fun group where new ideas and good times meet, giving you a gaming adventure like no other. Ready for the next-level fun in gaming?",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 0
+          },
+          {
+            "image": "/assets/images/nft2.png",
+            "title": "NFT games",
+            "description": "Explore NFT games: Each game item is one-of-a-kind and truly yours with NFTs. Play securely with smart contracts, ensuring clear and safe interactions. Dive into unique stories in every NFT game, making each playthrough a special and personalized adventure.",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 1
+          },
+          {
+            "image": "/assets/images/nft3.png",
+            "title": "Real Estate metaverse",
+            "description": "Discover Real Estate Metaverse: Explore a virtual world where you can check out properties and neighborhoods online. Connect with buyers and sellers in this cool virtual real estate market. Dive into 3D visuals of homes and spaces. It's like a cutting-edge way to explore properties. Join the Real Estate Metaverse for a modern approach to checking out homes!",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 0
+          }
+    ],
+    "gameDesign": [
+        {
+          "image": "/assets/images/gd1.png",
+          "title": "2D GAME DESIGN",
+          "description": "We craft visually captivating games, transforming flat images into dynamic adventures. Enjoy the simplicity and fun of 2D gaming, where every pixel contributes to an exciting story. Join us for a gaming experience that brings together classic charm and modern enjoyment!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/gd2.png",
+          "title": "3D GAMES DESIGN",
+          "description": "Our team creates cool games that look amazing, bringing ideas to life in three dimensions. Dive into exciting 3D gaming adventures, where every detail adds to the fun. Join us for games that make your imagination pop in 3D!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        },
+        {
+          "image": "/assets/images/gd3.png",
+          "title": "GAME ENVIORMENT DESIGN",
+          "description": "Enter the world of Game Environment Design – where Buggbyte's creative squad makes the coolest game settings. Explore our carefully crafted virtual worlds where every tiny detail adds to the fun. Join us for a laid-back adventure, and let's turn digital landscapes into your favorite gaming spots!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/gd4.png",
+          "title": "CHARACTER DESIGN",
+          "description": "Our team creates cool characters that make your games more fun. Check out the unique and awesome looks we've made, where every character has its own story. Join us for a cool adventure where virtual friends become part of your gaming fun!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        }
+      ],
+      "gameDevelopment": [
+        {
+          "image": "/assets/images/gd1.png",
+          "title": "2D GAME DESIGN",
+          "description": "We craft visually captivating games, transforming flat images into  dynamic adventures. Enjoy the simplicity and fun of 2D gaming, where  every pixel contributes to an exciting story. Join us for a gaming experience that brings together classic charm and modern enjoyment!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/gd2.png",
+          "title": "3D GAMES DESIGN",
+          "description": "Our team creates cool games that look amazing, bringing ideas to life in three dimensions. Dive into exciting 3D gaming adventures, where every detail adds to the fun. Join us for games that make you imagination pop in 3D!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        },
+        {
+          "image": "/assets/images/gd3.png",
+          "title": "GAME ENVIORMENT DESIGN",
+          "description": "Enter the world of Game Environment Design – where Buggbyte's creative squad makes the coolest game settings. Explore our carefully crafted virtual worlds where every tiny detail adds to the fun. Join us for a laid-back adventure, and let's turn digital landscapes into your favorite gaming spots!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/gd4.png",
+          "title": "CHARACTER DESIGN",
+          "description": "Our team creates cool characters that make your games more fun. Check out the unique and awesome looks we've made, where every  character has its own story. Join us for a cool adventure where virtual friends become part of your gaming fun!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        }
+      ],  
+      "blockChainGame": [
+        {
+          "image": "/assets/images/bc1.png",
+          "title": "WEB 3 GAMES",
+          "description": "Dive into decentralized fun with Web 3 games, own your in-game treasures, and trade securely with NFTs. Our community shares the latest on player- driven economies and unique gaming experiences. Ready to level up in the world of Web 3 gaming? Let's play!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/bc2.png",
+          "title": "NFT MARKET PLACE",
+          "description": "Welcome to our NFT Marketplace – where digital art, collectibles, and unique tokens come to life! Explore a diverse range of NFTs, each telling its own story. Buy, sell, and trade securely on our platform,  unlocking a world of creativity and ownership. Join the NFT revolution  with us – your gateway to the future of digital assets!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        },
+        {
+          "image": "/assets/images/bc3.png",
+          "title": "SMART CONTRACT",
+          "description": "Explore the magic of Smart Contracts! These digital agreements work automatically, ensuring trust without middlemen. Learn how they simplify tasks in finance, real estate, and more. Join us to unravel the simplicity and security of Smart Contracts!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/bc4.png",
+          "title": "TOKEN GENERATION",
+          "description": "Dive into how tokens are created on the blockchain, representing value and functionality. Discover their role in crowdfunding, gaming, and decentralized applications. Join us as we break down the process and explore the exciting possibilities of token generation!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        }
+      ],
+      "VRDevelopment": [
+        {
+            "image": "/assets/images/vr1.png",
+            "title": "VR BASED GAMES",
+            "description": "Discover a new dimension of gaming with VR-based experiences! Our portal is your gateway to the latest and greatest in virtual reality games. From heart-pounding action to mind-bending simulations, we've got your guide to the future of immersive gameplay. Delve into the extraordinary and redefine your gaming escapades with the wonders of VR technology.",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 0
+          },
+          {
+            "image": "/assets/images/vr2.png",
+            "title": "VR EXPERIENCES",
+            "description": "Dive into a new reality with VR experiences! Explore captivating simulations, epic adventures, and interactive storytelling. Our platform is your guide to the cutting edge of immersive entertainment. Unleash the extraordinary – your virtual journey starts here!",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 1
+          },
+          {
+            "image": "/assets/images/vr3.png",
+            "title": "VR SIMULATIONS",
+            "description": "Immerse yourself in the world of VR simulations! From realistic training scenarios to fantastical adventures, experience a new level of interactive engagement. Our platform explores the diverse landscape of VR simulations, offering insights into the latest innovations and experiences. Dive in and discover the boundless possibilities of virtual reality!",
+            "buttonText": "Learn More",
+            "buttonLink": "contact-us",
+            "order": 0
+          }
+    ],
+    "ARDevelopment": [
+      {
+          "image": "/assets/images/ar1.png",
+          "title": "AR BASED GAMES",
+          "description": "Join the fun journey with us! Imagine dragons and dinosaurs popping up in your world using AR magic. Catch Pokémon around corners, explore like an adventurer, and create amazing worlds with friends. Step outside, turn every walk into an exciting quest and enjoy gaming like never before. Be part of our community for endless adventures and exciting possibilities!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 0
+        },
+        {
+          "image": "/assets/images/ar2.png",
+          "title": "AR EXPERIENCES",
+          "description": "Experience the fun of AR on our website! Watch walls disappear, see  dragons and dinosaurs in action. City streets become awesome playgrounds. No need for screens – AR turns the world into a play area. Explore, find cool things, and have lots of adventures!",
+          "buttonText": "Learn More",
+          "buttonLink": "contact-us",
+          "order": 1
+        }
+  ],
+  "virtualExperience": [
+    {
+        "image": "/assets/images/ve1.png",
+        "title": "DIGITAL TWINS",
+        "description": "Experience the fun of AR on our website! Watch walls disappear, see dragons and dinosaurs in action. City streets become awesome playgrounds. No need for screens – AR turns the world into a play area. Explore, find cool things, and have lots of adventures!",
+        "buttonText": "Learn More",
+        "buttonLink": "contact-us",
+        "order": 0
+      },
+      {
+        "image": "/assets/images/ve2.png",
+        "title": "ARCH VIZ",
+        "description": "Step into the world of ARCH VIZ, where architecture meets visualization! Explore our insights into the art of creating stunning visual representations of architectural designs. From realistic renderings to immersive virtual tours, ARCH VIZ transforms ideas into vivid, lifelike experiences. Join us on a visual journey as we showcase the power of architectural visualization in bringing spaces to life!",
+        "buttonText": "Learn More",
+        "buttonLink": "contact-us",
+        "order": 1
+      }
+]
+  }

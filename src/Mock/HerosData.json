@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Get In Touch",
+    "title": "Contact Us",
+    "des": "Please fill out the form and let us know about your concerns. We will try our best to provide optimized solutions.",
+    "image": "/assets/images/contact-us-hero.png"
+  },
+  {
+    "title": "About US",
+    "des": "your journey into the digital realm starts here!",
+    "image": "/assets/images/about-us-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Our Services",
+    "des": "Our services combine smart ideas with creative  fun – that's what makes Buggbyte Studios unique!",
+    "image": "/assets/images/our-services-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Our PORTFOLIO",
+    "des": "Discover, Play, Repeat: Your Gateway to Gaming Wonders!",
+    "image": "/assets/images/portfolio-header-img.png"
+  },
+  {
+    "text": "Unity ",
+    "title": "Alien Shooter Space War Games",
+    "des": "Galaxy Shooter – Alien Hunter : Space Shooting Games. \"Galaxy Shooter Sky Force –alien shooting game\" is an engaging arcade galaxy space shooting game that draws inspiration from classics like Galaxia.",
+    "image": "/assets/images/protfolio-detail-header-img.png",
+    "buttonText": "Request to play"
+  },
+  {
+    "text": "Explore",
+    "title": "AR Development",
+    "des": "Here it is AR dev",
+    "image": "/assets/images/ar-development-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Blockchain Games",
+    "des": "Beyond Transactions: Your Premier Partner in Blockchain Development!",
+    "image": "/assets/images/blockchain-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Game Design and Animation",
+    "des": "Crafting Worlds, Igniting Imaginations: Your Portal to Infinite Adventures!",
+    "image": "/assets/images/game-development-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "NFT AND Metaverse",
+    "des": "Enter the metaverse realms where your art is your wealth.",
+    "image": "/assets/images/nft-metaverse-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "VR DEVELOPMENT",
+    "des": "Beyond Imagination: Crafting Tomorrow's Virtual Experiences Today!",
+    "image": "/assets/images/vr-development-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "VIRTUAL EXPERIENCES",
+    "des": "Beyond Boundaries: Crafting Digital Twins and Architectural Marvels for Tomorrow's Experiences!",
+    "image": "/assets/images/virtual-experience-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Unity and Unreal",
+    "des": "Play, Thrive, Conquer: Where Every Move Defines Your Victory!",
+    "image": "/assets/images/unity&unreal-hero.png"
+  },
+  {
+    "text": "Explore",
+    "title": "Game Design and Animation",
+    "des": "Crafting Worlds, Igniting Imaginations: Your Portal to Infinite Adventures!",
+    "image": "/assets/images/game-development-hero.png"
+  }
+]

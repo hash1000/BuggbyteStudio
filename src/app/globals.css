@@ -1,0 +1,78 @@
+body {
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 700px) {
+  .brand-logo {
+    height: 50px;
+    width: auto;
+  }
+}
+
+@keyframes anime1 {
+  0% {
+    rotate: 360deg;
+  }
+  100% {
+    rotate: 0deg;
+  }
+}
+
+@keyframes loader {
+  0% {
+    transform: translateX(-10%);
+  }
+  50% {
+    transform: translateX(10%);
+  }
+  100% {
+    transform: translateX(-10%);
+  }
+}
+
+@keyframes jKVXCn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+[data-aos="right-anime-fast"] {
+  transform: translateX(-600px);
+  opacity: 0;
+  transition: transform, opacity 0.3s ease-in-out;
+  &.aos-animate {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+[data-aos="right-left-anime"] {
+  transform: translateX(0px);
+  opacity: 0;
+  transition: transform, opacity ease-in-out;
+  &.aos-animate {
+    transform: translateX(780px);
+    opacity: 1;
+  }
+}
+[data-aos="left-anime-slow"] {
+  transform: translateX(3000px);
+  opacity: 0;
+  transition: transform, opacity 20s ease-in-out;
+  &.aos-animate {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+[data-aos="right-anime-rotate-fade"] {
+  transform: translate(0px, -100px) rotate(4deg);
+  opacity: 0;
+  transition-property: transform, opacity;
+  &.aos-animate {
+    transform: translate(0px, 0px) rotate(0deg);
+    opacity: 1;
+  }
+}

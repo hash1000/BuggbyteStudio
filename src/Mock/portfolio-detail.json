@@ -1,0 +1,390 @@
+[
+  {
+    "meta-warriors": {
+      "Header": {
+        "text": "unity",
+        "title": "META WARRIORS",
+        "des": "ONLINE MULTIPLAYER KILL-TO-EARN ZOMBIE SHOOTING Every living creature in this city is a bloodthirsty zombie but the city has a lot of value for people as food supplies and weapon artillery and factories are in this city",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/meta-warriors-header.png"
+      },
+      "GameArt": {
+        "title": "META WARRIORS GAMES ARTS",
+        "description": "ONLINE MULTIPLAYER KILL-TO-EARN ZOMBIE SHOOTING Every living creature in this city is a bloodthirsty zombie but the city has a lot of value for people as food supplies and weapon artillery and factories are in this city",
+        "images": [
+          "/assets/images/game-art-image-4.png",
+          "/assets/images/game-art-image-5.png",
+          "/assets/images/game-art-image-6.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "ONLINE MULTIPLAYER KILL-TO-EARN ZOMBIE SHOOTING",
+        "mainImage": "/assets/images/project-info-2.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "ar-bazaar": {
+      "Header": {
+        "text": "AUGMENTED REALITY",
+        "title": "AR BAZAAR",
+        "des": "Immerse yourself in a world where products come to life before your eyes",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/ar-bazaar-header.png"
+      },
+      "GameArt": {
+        "title": "AR BAZAAR",
+        "description": "Revolutionize Your Shopping Journey",
+        "images": [
+          "/assets/images/game-art-image-7.png",
+          "/assets/images/game-art-image-8.png",
+          "/assets/images/game-art-image-9.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Revolutionize Your Shopping Journey",
+        "mainImage": "/assets/images/project-info-3.png",
+        "projectType": { "mobileApp": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "tiny-titans": {
+      "Header": {
+        "text": "unity",
+        "title": "TINY TITANS",
+        "des": "Tiny Titans – AFK Auto Battles is a Role Playing game Clash steel with players from all around the world in this epic PvP strategy autobattler for Android! Collect and deploy a team of powerful titans, each with their own skills and abilities.",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/tiny-titans-header.png"
+      },
+      "GameArt": {
+        "title": "TINY TITANS GAME ARTS",
+        "description": "Tiny Titans – AFK Auto Battles is a Role Playing game",
+        "images": [
+          "/assets/images/game-art-image-10.png",
+          "/assets/images/game-art-image-11.png",
+          "/assets/images/game-art-image-12.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Tiny Titans – AFK Auto Battles is a Role Playing game",
+        "mainImage": "/assets/images/project-info-4.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "adobePhotoshopIllustrator": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "pixels-debates": {
+      "Header": {
+        "text": "WEB 3.0 GAME",
+        "title": "pixels debates",
+        "des": "Pixel Debates is an online multiplayer game in which players engage in debate matches against each other. The game features a variety of debate topics and allows players to defend their positions using evidence and logical argumentation.",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/pixels-debates-header.png"
+      },
+      "GameArt": {
+        "title": "PIXELS DEBATES GAME ARTS",
+        "description": "Pixel Debates is an online multiplayer game",
+        "images": [
+          "/assets/images/game-art-image-13.png",
+          "/assets/images/game-art-image-14.png",
+          "/assets/images/game-art-image-15.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Pixel Debates is an online multiplayer game",
+        "mainImage": "/assets/images/project-info-5.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "adobePhotoshopIllustrator": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "hearts-classic-card-game": {
+      "Header": {
+        "text": "unity",
+        "title": "hearts classic card game",
+        "des": "Hearts is a classic competitive card game, which is one of the greatest card games designed for four players.It sharpens your brain and makes you relax and have fun!",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/hearts-classic-header.png"
+      },
+      "GameArt": {
+        "title": "HEARTS CLASSIC CARD GAME",
+        "description": "Hearts is a classic competitive card game",
+        "images": [
+          "/assets/images/game-art-image-16.png",
+          "/assets/images/game-art-image-17.png",
+          "/assets/images/game-art-image-18.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Hearts is a classic competitive card game,",
+        "mainImage": "/assets/images/project-info-6.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "adobePhotoshopIllustrator": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "ar-real-estate": {
+      "Header": {
+        "text": "AUGMENTED REALITY",
+        "title": "AR REAL ESTATE",
+        "des": "Galaxy Shooter – Alien Hunter : Space Shooting Games'Galaxy Shooter Sky Force –alien game' is an engaging arcade galaxy space shooting game draws inspiration from classics like Galaxia.",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/ar-real-header.png"
+      },
+      "GameArt": {
+        "title": "AR REAL ESTATE APP",
+        "description": "Galaxy Shooter – Alien Hunter : Space Shooting Games",
+        "images": [
+          "/assets/images/game-art-image-19.png",
+          "/assets/images/game-art-image-20.png",
+          "/assets/images/game-art-image-21.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed",
+        "mainImage": "/assets/images/project-info-7.png",
+        "projectType": { "arMobileApp": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk3DSMAX": true,
+          "blender": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "jasmine-grand-mall": {
+      "Header": {
+        "text": "DIGITAL TWINS",
+        "title": "JASMINE GRAND MALL",
+        "des": "The largest shopping mall in Bahria Town Lahore.",
+        "image": "/assets/images/jasmin-grand-header.png"
+      },
+      "GameArt": {
+        "title": "JASMINE GRAND MALL PROJECT",
+        "description": "The largest shopping mall in Bahria Town Lahore",
+        "images": [
+          "/assets/images/game-art-image-22.png",
+          "/assets/images/game-art-image-23.png",
+          "/assets/images/game-art-image-24.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "The largest shopping mall in Bahria Town Lahore",
+        "mainImage": "/assets/images/project-info-8.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        }
+      }
+    },
+    "dark-taverns": {
+      "Header": {
+        "text": "WEB 3.0 GAME",
+        "title": "dark taverns",
+        "des": "Dark Taverns is an open-world MMORPG set in a unique fantasy world filled with hidden secrets and magic. Explore the deep forests and discover mythical creatures and items.",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/dark-taverns-header.png"
+      },
+      "GameArt": {
+        "title": "DARK TAVERNS GAME ARTS",
+        "description": "Dark Taverns is an open-world MMORPG",
+        "images": [
+          "/assets/images/game-art-image-25.png",
+          "/assets/images/game-art-image-26.png",
+          "/assets/images/game-art-image-27.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Dark Taverns is an open-world MMORPG",
+        "mainImage": "/assets/images/project-info-9.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "q-high-street": {
+      "Header": {
+        "text": "DIGITAL TWINS",
+        "title": "Q HIGH STREET",
+        "des": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design dedicatedly designed by the Hiline architecture and 3D designing team with the perfect blend of luxury, growth, and lifestyle.",
+        "image": "/assets/images/q-high-header.png"
+      },
+      "GameArt": {
+        "title": "Q HIGH STREET PROJECT",
+        "description": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design",
+        "images": [
+          "/assets/images/game-art-image-28.png",
+          "/assets/images/game-art-image-29.png",
+          "/assets/images/game-art-image-30.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design",
+        "mainImage": "/assets/images/project-info-10.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        }
+      }
+    },
+    "manager-football": {
+      "Header": {
+        "text": "BLOCKCHAIN GAME",
+        "title": "Manager football",
+        "des": "You're the boss of an elite soccer team. Build a dream squad of  real-life stars or coach new talent and lead them to victory in this management game.",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/manager-football-header.png"
+      },
+      "GameArt": {
+        "title": "FOOTBALL MANAGER’S GAME ARTS",
+        "description": "Build a dream squad of real-life stars",
+        "images": [
+          "/assets/images/game-art-image-31.png",
+          "/assets/images/game-art-image-32.png",
+          "/assets/images/game-art-image-33.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Build a dream squad of real-life stars",
+        "mainImage": "/assets/images/project-info-11.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "rifters": {
+      "Header": {
+        "text": "METAVERSE",
+        "title": "RIFTERS.IO",
+        "des": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+        "btnLink": "/",
+        "buttonText": "Request to play",
+        "image": "/assets/images/riftersio-header.png"
+      },
+      "GameArt": {
+        "title": "RIFTERS.IO PROJECT",
+        "description": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+        "images": [
+          "/assets/images/game-art-image-34.png",
+          "/assets/images/game-art-image-35.png",
+          "/assets/images/game-art-image-36.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+        "mainImage": "/assets/images/project-info-12.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "adobePhotoshopIllustrator": true
+        },
+        "availableAt": {
+          "appleStore": true,
+          "playStore": true
+        }
+      }
+    },
+    "q-central-mall": {
+      "Header": {
+        "text": "DIGITAL TWINS",
+        "title": "Q-CENTRAL MALL & RESIDENCES",
+        "des": "Bahria Orchard and South Lahore's very first skyscraper.",
+        "image": "/assets/images/q-central-mall.png"
+      },
+      "GameArt": {
+        "title": "Q- CENTRAL MALL & RESIDENCES",
+        "description": "Bahria Orchard and South Lahore's very first skyscraper",
+        "images": [
+          "/assets/images/game-art-image-37.png",
+          "/assets/images/game-art-image-38.png",
+          "/assets/images/game-art-image-39.png"
+        ]
+      },
+      "ProjectInfo": {
+        "title": "Project Info",
+        "description": "Bahria Orchard and South Lahore's very first skyscraper",
+        "mainImage": "/assets/images/project-info-13.png",
+        "projectType": { "videoGame": true },
+        "technologyStacks": {
+          "unity": true,
+          "autoDesk": true,
+          "blender": true
+        }
+      }
+    }
+  }
+]

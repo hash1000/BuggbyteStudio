@@ -1,0 +1,82 @@
+[
+  {
+    "title": "AR BAZAAR",
+    "tags": ["ar-vr", "unity"],
+    "description": "Immerse yourself in a world where products come to life before your eyes",
+    "btnLink": "/portfolio/ar-bazaar",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-ar-bazar.png"
+  },
+  {
+    "title": "TINY TITANS",
+    "tags": ["unity"],
+    "description": "Tiny Titans – AFK Auto Battles is a Role Playing game Clash steel with players from all around the world.",
+    "btnLink": "/portfolio/tiny-titans",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-tiny-titans.png"
+  },
+  {
+    "title": "JASMINE GRAND MALL",
+    "tags": ["digital-twins"],
+    "description": "Tiny Titans – AFK Auto Battles is a Role Playing game Clash steel with players from all around the world.",
+    "btnLink": "/portfolio/jasmine-grand-mall",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/jasmine-grand-mall.png"
+  },
+  {
+    "title": "AR ESTATE",
+    "tags": ["ar-vr", "unity"],
+    "description": "The largest shopping mall in Bahria Town Lahore.",
+    "btnLink": "/portfolio/ar-real-estate",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-ar-estate.png"
+  },
+  {
+    "title": "Q HIGH STREET",
+    "tags": ["digital-twins"],
+    "description": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design",
+    "btnLink": "/portfolio/q-high-street",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-qstreet.png"
+  },
+  {
+    "title": "HEART CLASSIC CARD GAME",
+    "tags": ["unity"],
+    "description": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design",
+    "btnLink": "/portfolio/hearts-classic-card-game",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-heart.png"
+  },
+  {
+    "title": "DARK TAVERNS",
+    "tags": ["blockchain", "unity"],
+    "description": "Dark Taverns is an open-world MMORPG set in a unique fantasy world filled with hidden secrets and magic.",
+    "btnLink": "/portfolio/dark-taverns",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-dark-tarvens.png"
+  },
+  {
+    "title": "PIXEL DEBATES",
+    "tags": ["blockchain", "unity"],
+    "description": "Pixel Debates is an online multiplayer game in which players engage in debate matches against each other.",
+    "btnLink": "/portfolio/pixels-debates",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-pixels-debates.png"
+  },
+  {
+    "title": "Q-CENTRAL MALL",
+    "tags": ["digital-twins"],
+    "description": "Bahria Orchard and South Lahore's very first skyscraper.",
+    "btnLink": "/portfolio/q-central-mall",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-central-mall.png"
+  },
+  {
+    "title": "RIFTERS.IO",
+    "tags": ["metaverse", "unity"],
+    "description": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+    "btnLink": "/portfolio/rifters",
+    "btnTitle": "View Details",
+    "imgUrl": "/assets/images/game-card-rifter.png"
+  }
+]

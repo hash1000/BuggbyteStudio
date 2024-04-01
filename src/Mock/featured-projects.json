@@ -1,0 +1,99 @@
+[
+  {
+    "category": "Unity Develoment",
+    "title": "AR BAZAAR",
+    "description": "Immerse yourself in a world where products come to life before your eyes",
+    "btnText": "View Details",
+    "btnLink": "ar-bazaar",
+    "imageUrl": "/assets/images/featured-project-1.png"
+  },
+  {
+    "category": "Unity Develoment",
+    "title": "TINY TITANS",
+    "description": "Tiny Titans – AFK Auto Battles is a Role Playing game Clash steel with players from all around the world.",
+    "btnText": "View Details",
+    "btnLink": "tiny-titans",
+    "imageUrl": "/assets/images/featured-project-2.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "JASMINE GRAND MALL",
+    "description": "The largest shopping mall in Bahria Town Lahore.",
+    "btnText": "View Details",
+    "btnLink": "jasmine-grand-mall",
+    "imageUrl": "/assets/images/featured-project-3.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "AR REAL ESTATE",
+    "description": "The largest shopping mall in Bahria Town Lahore.",
+    "btnText": "View Details",
+    "btnLink": "/ar-real-estate",
+    "imageUrl": "/assets/images/featured-project-4.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "Q HIGH STREET",
+    "description": "Every corner of this one million-wide modern street is the fusion of contemporary and neoclassical design",
+    "btnText": "View Details",
+    "btnLink": "q-high-street",
+    "imageUrl": "/assets/images/featured-project-5.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "HEARTS CLASSIC CARD GAME",
+    "description": "Hearts is a classic competitive card game, which is one of the greatest card games",
+    "btnText": "View Details",
+    "btnLink": "hearts-classic-card-game",
+    "imageUrl": "/assets/images/featured-project-6.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "MANAGER FOOTBALL",
+    "description": "You're the boss of an elite soccer team. Build a dream squad of real-life stars",
+    "btnText": "View Details",
+    "btnLink": "/heart-classic-card-game",
+    "imageUrl": "/assets/images/featured-project-7.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "DARK TAVERNS",
+    "description": "Dark Taverns is an open-world MMORPG set in a unique fantasy world filled with hidden secrets and magic.",
+    "btnText": "View Details",
+    "btnLink": "dark-taverns",
+    "imageUrl": "/assets/images/featured-project-8.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "PIXELS DEBATES",
+    "description": "Pixel Debates is an online multiplayer game in which players engage in debate matches against each other.",
+    "btnText": "View Details",
+    "btnLink": "/pixels-debates",
+    "imageUrl": "/assets/images/featured-project-9.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "Q-CENTRAL MALL",
+    "description": "Bahria Orchard and South Lahore's very first skyscraper.",
+    "btnText": "View Details",
+    "btnLink": "/q-central-mall",
+    "imageUrl": "/assets/images/featured-project-10.png"
+  },
+
+  {
+    "category": "Unity Develoment",
+    "title": "RIFTERS.IO",
+    "description": "Rifters is the first ever MOCERPG - Massive Online Community Event Role Playing Game",
+    "btnText": "View Details",
+    "btnLink": "/rifters",
+    "imageUrl": "/assets/images/featured-project-11.png"
+  }
+]

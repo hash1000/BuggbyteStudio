@@ -1,0 +1,51 @@
+[
+  {
+    "image": "/assets/images/Unity&Unreal.png",
+    "title": "Unity and Unreal",
+    "description": "Game design, programming, art, animation, audio, testing, marketing, publishing, monetization, maintenance.",
+    "buttonLink": "/game-design",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/game-design.png",
+    "title": "Game Development",
+    "description": "Game design, programming, art, animation, audio, testing, marketing, publishing, monetization, maintenance.",
+    "buttonLink": "/game-development",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/ar-vr.png",
+    "title": "AR and VR Games",
+    "description": "Real-life simulations, gamified metaverses, shopping experiences, real estate, sports, fashion.",
+    "buttonLink": "/ar-development",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/blockchain-games.png",
+    "title": "Blockchain Games",
+    "description": "P2E, NFT marketplaces, staking, smart contracts",
+    "buttonLink": "/blockchain-games",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/nft&meta.png",
+    "title": "NFT & Metaverse",
+    "description": "NFT marketplace, P2E Games, Smart contracts, Sandbox, Roblox, Decentraland, Spatial, UEFN, Unity, Unreal Engine",
+    "buttonLink": "/nft-metaverse",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/ve.png",
+    "title": "Virtual Experiences",
+    "description": "Digital Twins, ArchViz, VR, AR, XR, Interactivity, Retail, Real Estate, Tourism, Fashion, Sports, Gaming",
+    "buttonLink": "/virtual-experience",
+    "buttonText": "Learn More"
+  },
+  {
+    "image": "/assets/images/vr-game.png",
+    "title": "VR Games",
+    "description": "Real-life simulations, gamified metaverses, shopping experiences, real estate, sports, fashion.",
+    "buttonLink": "/vr-development",
+    "buttonText": "Learn More"
+  }
+]
